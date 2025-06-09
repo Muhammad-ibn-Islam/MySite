@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+			Моя страница
+		</title>
+		<link href="style.css" rel="stylesheet">
+	</head>
+	<body>
+		<div class="container">
+			<p>Привет посетитель!</p>
+		</div>
+	</body>
+</html>
